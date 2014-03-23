@@ -4,9 +4,9 @@ files = ["stuff/*"]
 
 setup (
     name='FirstPythonPackage',
-    version='0.2.1',
+    version='0.2.2',
     packages=['firstpythonpackage',],
-    package_data = {'package' : files },    
+    package_data = {'firstpythonpackage' : files },    
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
     long_description=open('README.txt').read(),
 )
