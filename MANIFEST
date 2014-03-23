@@ -3,3 +3,6 @@ README.txt
 setup.py
 firstpythonpackage/__init__.py
 firstpythonpackage/printing.py
+firstpythonpackage/testy.py
+firstpythonpackage/stuff/Peppermint3_3.png
+firstpythonpackage/stuff/bash.sh
