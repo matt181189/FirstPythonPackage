@@ -4,7 +4,7 @@ files = ["stuff/*"]
 
 setup (
     name='FirstPythonPackage',
-    version='0.2.3',
+    version='0.2.4',
     packages=['firstpythonpackage',],
     package_data = {'firstpythonpackage' : files },    
 #    data_files=[('/home/a',['bashy.sh'])],
